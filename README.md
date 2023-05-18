@@ -19,7 +19,7 @@ Blue directions represents the Car route
 
 <img width="439" alt="MapKit4" src="https://github.com/Weiwei-iOS-Mobile-Development-Learning/MapKit_With_Directions/assets/72897104/94c78fc1-35ba-4b05-a87d-f33c07f8710a">
 
-#### Change to Walking route by pressing the right-bottom switch on the map page.
+#### Change to the Walking route by pressing the right-bottom switch on the map page.
 
 <img width="483" alt="MapKit5" src="https://github.com/Weiwei-iOS-Mobile-Development-Learning/MapKit_With_Directions/assets/72897104/725a1db9-f9b7-4ea7-8eb9-aed3b9c46bff">
 
